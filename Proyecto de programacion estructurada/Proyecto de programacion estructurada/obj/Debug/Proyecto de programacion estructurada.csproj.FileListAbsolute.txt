@@ -1,0 +1,7 @@
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\bin\Debug\Proyecto de programacion estructurada.exe.config
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\bin\Debug\Proyecto de programacion estructurada.exe
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\bin\Debug\Proyecto de programacion estructurada.pdb
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\obj\Debug\Proyecto de programacion estructurada.csproj.CoreCompileInputs.cache
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\obj\Debug\Proyecto de programacion estructurada.exe
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\obj\Debug\Proyecto de programacion estructurada.pdb
+C:\Users\jcorn\Desktop\Proyecto\Proyecto de programacion estructurada\Proyecto de programacion estructurada\obj\Debug\Proyecto de programacion estructurada.csprojResolveAssemblyReference.cache
